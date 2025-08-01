@@ -25,8 +25,5 @@ Cleaned and transformed in SQL Server before visualization.
 - Type A stores use the highest markdowns
 - February and November show peak markdown activity
 
-## Dashboard Screenshots
-*(Add your PNGs here)*
-
-## ✅ Outcome
+## Outcome
 This dashboard enables businesses to evaluate the effectiveness of markdown strategies over time, helping in strategic planning and promotional optimization.
